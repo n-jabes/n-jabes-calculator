@@ -14,17 +14,29 @@ A calculator project built with React and nodejs.
 6. Format larger numbers
 7. Output resize based on length
 
-## Installation
+## Installation (Frontend)
 
 1. `git clone https://github.com/n-jabes/n-jabes-calculator`
 
-2. `cd calculator`
+2. `cd n-jabes-calculator`
 
 3. `cd frontend`
 
 4. `npm install`
 
 5. `npm start`
+
+## Installation (Backend)
+
+1. `git clone https://github.com/n-jabes/n-jabes-calculator`
+
+2. `cd n-jabes-calculator`
+
+3. `npm install`
+
+4. `npm start`
+
+5. `npm run test`
 
 ## Contributions
 
