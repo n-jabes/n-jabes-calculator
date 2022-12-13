@@ -1,8 +1,8 @@
 # React Calculator
 
-A calculator project built with React.
+A calculator project built with React and nodejs.
 
-![Calculator Screenshot](https://i.imgur.com/O3CKScM.gif)
+![Calculator Screenshot](C:\Users\nshut\Videos\Captures)
 
 ## Features
 
@@ -16,7 +16,7 @@ A calculator project built with React.
 
 ## Installation
 
-1. `git clone https://github.com/madzadev/calculator.git`
+1. `git clone https://github.com/n-jabes/calculator`
 
 2. `cd calculator`
 
@@ -28,6 +28,3 @@ A calculator project built with React.
 
 Any feature requests and pull requests are welcome!
 
-## License
-
-The project is under [MIT license](https://choosealicense.com/licenses/mit/).
