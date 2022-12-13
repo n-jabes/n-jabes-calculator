@@ -16,7 +16,7 @@ A calculator project built with React and nodejs.
 
 ## Installation
 
-1. `git clone https://github.com/n-jabes/calculator`
+1. `git clone https://github.com/n-jabes/n-jabes-calculator`
 
 2. `cd calculator`
 
