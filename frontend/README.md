@@ -2,7 +2,7 @@
 
 A calculator project built with React and nodejs.
 
-![Calculator Screenshot](./calc.gif)
+![Calculator Screenshot](../calc.gif.mp4)
 
 ## Features
 
