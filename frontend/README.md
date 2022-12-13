@@ -2,7 +2,7 @@
 
 A calculator project built with React and nodejs.
 
-![Calculator Screenshot](C:\Users\nshut\Videos\Captures)
+![Calculator Screenshot](./calc.gif)
 
 ## Features
 
@@ -20,9 +20,11 @@ A calculator project built with React and nodejs.
 
 2. `cd calculator`
 
-3. `npm install`
+3. `cd frontend`
 
-4. `npm start`
+4. `npm install`
+
+5. `npm start`
 
 ## Contributions
 
